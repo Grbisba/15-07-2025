@@ -30,3 +30,12 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+*.json
+infra
+
+certs
+
+data
+
+*.o
