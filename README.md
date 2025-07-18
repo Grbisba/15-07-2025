@@ -53,3 +53,5 @@ envs:
 ```bash
 make run
 ```
+
+**if you see an error on server shutdown: create a folder in "data/cache"**
